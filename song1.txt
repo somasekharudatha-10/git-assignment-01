@@ -1,3 +1,5 @@
 completing the first assignment "I CAN WIN"
 
 adding,commiting and then pushing into the remote repository
+
+now pulling into the local repository using pull
